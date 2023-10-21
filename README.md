@@ -1,4 +1,4 @@
-<h1 align="center">HI ðŸ‘‹ WE ARE BECK AND BAY</h1>
+<h1 align="center">HI WE ARE BECK AND BAY</h1>
 <h3 align="center">THE LOCAL MAFIAS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BECK-BAY&label=Profile%20views&color=0e75b6&style=flat" alt="BECK-BAY" /> </p>
