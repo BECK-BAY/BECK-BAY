@@ -1,11 +1,11 @@
 <h1 align="center">HI WE ARE BECK AND BAY</h1>
-<h3 align="center">THE LOCAL MAFIAS</h3>
+<h3 align="center">THE WORTHLESS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BECK-BAY&label=Profile%20views&color=0e75b6&style=flat" alt="BECK-BAY" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BECK-BAY" alt="BECK-BAY" /></a> </p>
 
-- I'M CURRENTLY WORKING ON [BECKBAY-XD](https://gitHub.com/BECK-BAY/BB)
+- I'M CURRENTLY WORKING ON [BECKBAY-BB](https://gitHub.com/BECK-BAY/BB)
 
 - I'M CURRENTLY LEARNING **PROGRAMMING LANGUAGES**
 
