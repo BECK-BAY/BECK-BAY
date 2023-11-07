@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BECK-BAY" alt="BECK-BAY" /></a> </p>
 
-- Iâ€™M CURRENTLY WORKING ON [BECKBAY-XD](https://gitHub.com/BECK-BAY/BECKBAY-XD)
+- I'M CURRENTLY WORKING ON [BECKBAY-XD](https://gitHub.com/BECK-BAY/BB)
 
-- Iâ€™M CURRENTLY LEARNING **PROGRAMMING LANGUAGES**
+- I'M CURRENTLY LEARNING **PROGRAMMING LANGUAGES**
 
 - ALL OF MY PROJECTS ARE available at [https://github.com/BECK-BAY](https://github.com/BECK-BAY)
 
